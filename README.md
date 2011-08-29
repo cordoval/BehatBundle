@@ -3,7 +3,7 @@ See [Behat official site](http://behat.org) for more info.
 
 ## Features
 
-- Support latest Symfony2 Standart Edition
+- Support latest Symfony2 Standard Edition
 - Fully integrates with Symfony2 project
 - _Optionally_ uses `MinkBundle` to talk with browser emulators
 - Fully tested with `BehatBundle` itself
